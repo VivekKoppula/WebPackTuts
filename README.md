@@ -1,2 +1,2 @@
-# WebPackTuts
-web pack
+# webpacktuts
+A repo to learn web pack
